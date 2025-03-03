@@ -19,12 +19,6 @@ or the development version:
 remotes::install_github("kisha126/mgbstats")
 ```
 
-## Usage
+# 🚧 UNDER CONSTRUCTION 🚧
 
-Load the package:
-
-```r
-library(mgbstats)
-```
-
-
+This package is under construction.
