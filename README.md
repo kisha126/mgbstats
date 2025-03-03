@@ -9,7 +9,7 @@
 You can install the stable version of `mgbstats` from CRAN using:
 
 ```r
-install.packages('mgbstats)
+install.packages('mgbstats')
 ```
 
 or the development version:
